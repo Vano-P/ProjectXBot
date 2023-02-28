@@ -1,0 +1,15 @@
+{
+  "name": "projectxv",
+  "version": "1.0.0",
+  "description": "mybot",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "V.P.",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "nodemon": "^2.0.20"
+  }
+}
